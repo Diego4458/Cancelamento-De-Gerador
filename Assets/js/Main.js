@@ -42,7 +42,7 @@ button.addEventListener('click',()=>{
     {
         if(input.value === "Diego")
         {
-            GenerateCancelamento(input.value,'Developar');
+            GenerateCancelamento(input.value,'Ser Developar');
         }
         else
         {
