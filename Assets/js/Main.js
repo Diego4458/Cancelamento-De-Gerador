@@ -32,7 +32,8 @@ var Motivos = [
     "Ver Pornografia Em Escesso",
     "Brincar De Esconde Esconde",
     "Ser Lolicon",
-    "Ganhar Na Mega Sena"
+    "Ganhar Na Mega Sena",
+    "Ser Um Pirata"
 ];
 BtnImg.addEventListener('click',()=>{
 alert('Twitter: @Diego4458\nGithub: Diego4458\n  Segue Nois');
