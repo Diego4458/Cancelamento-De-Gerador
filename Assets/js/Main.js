@@ -49,7 +49,14 @@ var Motivos = [
     "Ser o Ralph",
     "Beber Suco De Caixinha",
     "Beber Tody Agitando",
-    "Ser radical"
+    "Ser radical",
+    "Por Cobrar Barato",
+    "Por Não Saber Contar",
+    "Faltar As Aulas Do Vagner",
+    "Pesquisar No Google De Forma Errada",
+    "Ver Tutorias Arabes",
+    "Falar Que O Flamento é Time",
+    "Torcer Pro Palmeiras"
 ];
 BtnImg.addEventListener('click',()=>{
 alert('Twitter: @Diego4458\nGithub: Diego4458\n  Segue Nois');
@@ -57,13 +64,13 @@ alert('Twitter: @Diego4458\nGithub: Diego4458\n  Segue Nois');
 button.addEventListener('click',()=>{
     if(input.value.length > 0)
     {
-        if(input.value === "Diego")
+        if(input.value === "Diego4458")
         {
             GenerateCancelamento(input.value,'Ser Developar');
         }
         else
         {
-    GenerateCancelamento(input.value,GenerateMotivo())
+            GenerateCancelamento(input.value,GenerateMotivo(),)
         }
     }
 });
