@@ -34,7 +34,22 @@ var Motivos = [
     "Ser Lolicon",
     "Ganhar Na Mega Sena",
     "Ser Um Pirata",
-    "Jogar Playstation Pirata"
+    "Jogar Playstation Pirata",
+    "Por Ser Branco",
+    "Por Ser Negro",
+    "Por Ser Pardo",
+    "Por Ser Esquizofrenico",
+    "Ter Ebola",
+    "Ter Coronga Virus",
+    "Ter Corona Virus",
+    "Dar PT",
+    "Ser Furmante",
+    "Fumar Derby",
+    "Ser Alcolatra",
+    "Ser o Ralph",
+    "Beber Suco De Caixinha",
+    "Beber Tody Agitando",
+    "Ser radical"
 ];
 BtnImg.addEventListener('click',()=>{
 alert('Twitter: @Diego4458\nGithub: Diego4458\n  Segue Nois');
