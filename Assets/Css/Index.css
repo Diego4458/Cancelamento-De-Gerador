@@ -54,3 +54,23 @@ button:hover{
     font-size: 30px;
     color: white;
 }
+
+@media (max-width: 600px)
+{
+    img{
+        width: 500px;
+    }
+    .Center{
+        padding-top: 40px;
+    }
+}
+
+@media (max-width: 40px)
+{
+    img{
+        width: 100px;
+    }
+    .Center{
+        padding-top: 40px;
+    }
+}

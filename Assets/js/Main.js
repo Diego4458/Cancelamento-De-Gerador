@@ -20,7 +20,7 @@ var Motivos = [
     "Brincar De Ciranda",
     "Fazer Cirurgias Clandestinas",
     "Ser Traficante De Drogas",
-    "Ser Prostituta",
+    "Ser Dama Da Noite",
     "Estar Usando Esse Site",
     "Ser E-girl",
     "Ser Gostosa",
@@ -33,7 +33,8 @@ var Motivos = [
     "Brincar De Esconde Esconde",
     "Ser Lolicon",
     "Ganhar Na Mega Sena",
-    "Ser Um Pirata"
+    "Ser Um Pirata",
+    "Jogar Playstation Pirata"
 ];
 BtnImg.addEventListener('click',()=>{
 alert('Twitter: @Diego4458\nGithub: Diego4458\n  Segue Nois');
