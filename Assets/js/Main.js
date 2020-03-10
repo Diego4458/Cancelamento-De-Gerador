@@ -56,7 +56,8 @@ var Motivos = [
     "Pesquisar No Google De Forma Errada",
     "Ver Tutorias Arabes",
     "Falar Que O Flamento é Time",
-    "Torcer Pro Palmeiras"
+    "Torcer Pro Palmeiras",
+    "Falar Que #Inforaça è Curso e Não Uma Família"
 ];
 BtnImg.addEventListener('click',()=>{
 alert('Twitter: @Diego4458\nGithub: Diego4458\n  Segue Nois');
