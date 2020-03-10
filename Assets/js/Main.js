@@ -92,3 +92,5 @@ function GenerateCancelamento(Nome,Motivo)
     label.setAttribute('class','BoxBox')
     lista.appendChild(label);
 }
+
+console.log(`Diego Esteve Aqui Segue No Insta diegodel4458`)
