@@ -1,3 +1,6 @@
+/////////////////////////////
+// Isso Não è Um Easter Egg//
+/////////////////////////////
 var lista = document.getElementById('box');
 var button  = document.querySelector('button');
 var input  = document.querySelector('input');
